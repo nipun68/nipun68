@@ -108,10 +108,9 @@ AI-powered analytics platform that predicts optimal shooting directions and goal
 
 Machine Learning model to predict blunders using Stockfish evaluations and player statistics.
 
-### 📚 Library Management System
+### 🛒 E-Commerce Website
 
-QR-based Library Management System with database integration and automation.
-
+Developed a full-stack e-commerce web application using **Flask**, implementing secure user authentication, product management, shopping cart, order processing, and database integration.
 ---
 
 # 🏆 GitHub Trophies
