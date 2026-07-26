@@ -100,18 +100,17 @@
 
 # 🚀 Featured Projects
 
-### ⚽ Football Decision Intelligence Platform
+### ⚽ DuelTactix-AI
 
-AI-powered analytics platform that predicts optimal shooting directions and goalkeeper dives using Machine Learning.
+Developed an AI-powered football analytics platform that leverages Machine Learning to predict optimal shooting directions and goalkeeper dives, enabling data-driven tactical decision-making.
 
 ### ♟ Chess Blunder Prediction
 
-Machine Learning model to predict blunders using Stockfish evaluations and player statistics.
+Developed a Machine Learning model to identify and predict chess blunders using Stockfish evaluations, player ratings, and game statistics for performance analysis.
 
 ### 🛒 E-Commerce Website
 
 Developed a full-stack e-commerce web application using **Flask**, implementing secure user authentication, product management, shopping cart, order processing, and database integration.
----
 
 # 🏆 GitHub Trophies
 
